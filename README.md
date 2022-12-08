@@ -1,4 +1,3 @@
-typescript type decalarations are too long
-Please fix next update 
+Why are Swift type declarations awful
 
 my first repository belongs on r/programminghorror
